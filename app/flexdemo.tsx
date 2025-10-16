@@ -25,5 +25,5 @@ export default function FlexDemo() {
 const s = StyleSheet.create({
   wrap: { flexDirection: 'row', gap: 12, padding: 16, justifyContent: 'space-between' },
   card: { flex: 1, backgroundColor: '#E8F0FE', padding: 16, alignItems: 'center', borderRadius: 8 },
-  cardText: { fontWeight: '600' }
+  cardText: { fontWeight: '600' },
 });
